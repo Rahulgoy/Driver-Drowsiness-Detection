@@ -12,4 +12,4 @@ The main steps involved are:
 
 
 
-Note: For predicting I have used CNN model if you guys want to have that model.py file as well comment below.
+Note: For predicting I have used CNN model.
